@@ -1,0 +1,5 @@
+D:\Users\bnlake\Google Drive\Programming\C#\Projects\LearningCsharp\LearningCsharp\bin\Debug\LearningCsharp.exe.config
+D:\Users\bnlake\Google Drive\Programming\C#\Projects\LearningCsharp\LearningCsharp\bin\Debug\LearningCsharp.exe
+D:\Users\bnlake\Google Drive\Programming\C#\Projects\LearningCsharp\LearningCsharp\bin\Debug\LearningCsharp.pdb
+D:\Users\bnlake\Google Drive\Programming\C#\Projects\LearningCsharp\LearningCsharp\obj\Debug\LearningCsharp.exe
+D:\Users\bnlake\Google Drive\Programming\C#\Projects\LearningCsharp\LearningCsharp\obj\Debug\LearningCsharp.pdb

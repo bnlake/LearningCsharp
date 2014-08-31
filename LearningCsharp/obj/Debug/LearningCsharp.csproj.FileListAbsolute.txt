@@ -1,0 +1,2 @@
+C:\Users\bnlake\AppData\Local\Temporary Projects\LearningCsharp\bin\Debug\LearningCsharp.exe.config
+D:\Users\bnlake\Google Drive\Programming\C#\Projects\LearningCsharp\LearningCsharp\bin\Debug\LearningCsharp.exe.config
